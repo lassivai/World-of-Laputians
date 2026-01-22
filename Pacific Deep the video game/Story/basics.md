@@ -1,3 +1,3 @@
----- Pacific Deep the video game - Basics ----
+# Pacific Deep the video game - Basics
 
 During the golden age of Laputians, events take place in underground cities below Pacific Ocean, where a particularly dense reservoir of the mineral aetherium was spotted. There are multiple cities, or areas, where different activity is taking place. The main character is located in a research and development area (or city), being a specialized engineer, a concious robot capable of building high-tech items. I can think of 3 sources of inspiration for the robot: 1) the caregiver robot in Miyazaki's Laputa film, 2) whatever the robot Wall-E is from the film with the same name, and 3) the engineer creature from a book called Project Hail Mary. All of which are both truly alien to normal people, yet thoroughly heart-warming. Maybe fourth inspiration: R2-D2! A creature anyone can relate with even without any words uttered.

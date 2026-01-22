@@ -1,4 +1,4 @@
----- Laputian Culture - Basics ----
+## Laputian Culture - Basics
 
 Laputians was an ancient civilization that may have existed from about 5000 BC to 1300 AD. One of the earliest memories of the culture is help given to Egyptians to build their pyramids (see notes about "aetherium" below).
 

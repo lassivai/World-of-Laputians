@@ -1,4 +1,4 @@
----- Random Ideas ----
+## Random Ideas
 
 Element of horror created by a trauma at the beginning of the game. Maybe something terrible happened to the good friends of the main character.
 

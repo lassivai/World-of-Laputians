@@ -1,4 +1,4 @@
----- Miyazaki's Laputa: Castle in the Sky ----
+## Miyazaki's Laputa: Castle in the Sky
 
 Society: A technologically advanced ancient civilization that sought refuge from the wars on Earth.
 
@@ -10,18 +10,17 @@ Contrast with Swift's Version: While Miyazaki was conscious of Swift's critique 
 
 "Epic Steampunk Sci-Fi Fantasy Adventure"
 
----- Laputa, Miyazaki vs. Swift ----
+## Laputa, Miyazaki vs. Swift
 
 Utopia vs. Dystopia: Swift presents a satirical, dystopian view of an intellectual elite, while Miyazaki depicts a once-utopian society that was destroyed by the human desire for power and control.
 
 Themes: Swift uses Laputa to critique the dangers of pure reason and science disconnected from practical life, whereas Miyazaki uses it to explore themes of nature, technology, and the destructive nature of humanity.
 
-
----- Features ----
+## Features
 
 "The pendant of the necklace is a blue crystal made of Aetherium ("Volucite" in the original Japanese and Streamline English versions), a rare element that glows when activated and which possesses certain magical powers."
 
----- Resources ----
+## Resources
 
 https://ghibli.fandom.com/wiki/Laputa
 

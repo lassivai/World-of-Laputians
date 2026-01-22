@@ -1,20 +1,20 @@
----- Random Ideas ----
+## Random Ideas
 
 Big "torches" or flames contained in an object. If hit will leave a trail of embers on the ground which burn out gradually.
 
 Tubes that carry different substances, that can be broken so that, e.g., gas is ejecting from the hole...
 
----- Scenarios, Missions, Maps ----
+## Scenarios, Missions, Maps
 
 Being chased by strong enemies until the end of the map, where a heavy mech, tank, machine is located which can then easily destroy the enemy.
 
 
----- Technical Issues ----
+## Technical Issues
 
 Find out how Unreal/Unity handles several materials. Does every material require own draw call?
 
 
----- Audio ideas ----
+## Audio ideas
 
 The closer the sound source the more dry the reverb. More distant sounds more wet.
 

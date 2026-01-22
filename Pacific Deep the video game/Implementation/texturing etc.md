@@ -1,11 +1,11 @@
-#### Covering the Ground and Floor, Initial Ideas ####
+## Covering the Ground and Floor, Initial Ideas
 
 Basic procedural texture that fills all the area, without repetition or tiling, yet not consuming too much memory.
 
 When removing walls and rock, that texture uncovers.
 
 
----- Path and polygon based areas ----
+## Path and polygon based areas
 
 Textured areas controlled by paths (splines etc.) and polygons.
 
@@ -22,7 +22,7 @@ Implementation idea for the road type of things with borders.
 Catmull-Rom splines
 
 
----- Water covered areas and rivers ----
+## Water covered areas and rivers
 
 Polygon based tool which has an automatic smooth transition from shallow to deeper waters.
 
