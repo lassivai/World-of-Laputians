@@ -1,6 +1,6 @@
 # World of Laputians
 
-This repository is used to record notes on 1) world building of Laputian Culture, and for 2) planning of a video game, called Pacific Deep, that takes place in the Laputian world.
+This repository is used to record notes on 1) world building of Laputian culture, and for 2) planning of a video game, called Pacific Deep, that takes place in the Laputian world.
 
 ## Laputian Culture - Overview
 
