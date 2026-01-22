@@ -1,3 +1,7 @@
+# World of Laputians
+
+This repository is used to storage notes on 1) world building of Laputian Culture, and also for a 2) planning of a video game, called Pacific Deep, that takes place in the Laputian world.
+
 ## Laputian Culture - Overview
 
 Laputians was an ancient civilization that may have existed from about 5000 BC to 1300 AD. One of the earliest memories of the culture is help given to Egyptians to build their pyramids (see notes about "aetherium" below).
