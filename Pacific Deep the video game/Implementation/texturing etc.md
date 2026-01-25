@@ -27,6 +27,10 @@ Catmull-Rom splines
 Polygon based tool which has an automatic smooth transition from shallow to deeper waters.
 
 
+## Darker near the walls
+
+When near walls or rocks, the ground texture becomes darker, simulating shadowing. Maybe similar algorithm as emission.
+
 
 
 
