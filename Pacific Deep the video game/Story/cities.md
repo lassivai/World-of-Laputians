@@ -6,7 +6,7 @@ At the beginning of the game the player character starts as a newly-built engine
 
 In addition to the functional parts of each city, every city also contains the lodgings for the robots working there. The robots do not need food, water, or sleep, but they do need some form of recreation and social interaction. The lodging areas provide a place for the robots to relax and do fun activities (such as playing computer games or living in a virtual reality; the primary game will contain several "game within games", or minigames that are totally playable).
 
-All sort of presentations and shows are held in the cities from time to time, such as musical concerts, art exhibitions and new technology releases. The player may attend these events for recreation or to learn more about the Laputian culture. They are scheduled regularly, so that each day there are events happening in some city.
+All sort of presentations and shows are held in the cities from time to time, such as musical concerts, art exhibitions and new technology releases. The player may attend these events for recreation or to learn more about the Laputian culture. They are scheduled regularly, so that each day or so there might be events happening in some city.
 
 ### Research and Development City
 
