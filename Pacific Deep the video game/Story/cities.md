@@ -10,7 +10,7 @@ All sort of presentations and shows are held in the cities from time to time, su
 
 ### Research and Development City
 
-This city contains laboratories, workshops, and testing facilities where new technologies and inventions are developed. In addition to the player character, dozens, if not hundreds of other engineering robots work here, each with their own specialties and skills. The player will learn instructions to hundreds of different devices as they progress through the game. Any device which building instructions are known to the player can be built and used by the player and the non-player characters. 
+This city contains laboratories, workshops, and testing facilities where new technologies and inventions are developed. In addition to the player character, dozens, if not hundreds of other engineering robots work here, each with their own specialties and skills. The player will learn instructions for hundreds of different devices as they progress through the game. Any device which building instructions are known to the player can be built and used by the player and the non-player characters. 
 
 Some of the technologies developed here include:
 * new sorts of robots and machines (some conscious, some not)
