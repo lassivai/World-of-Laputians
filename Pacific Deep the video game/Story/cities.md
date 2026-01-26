@@ -13,13 +13,13 @@ All sort of presentations and shows are held in the cities from time to time, su
 This city contains laboratories, workshops, and testing facilities where new technologies and inventions are developed. In addition to the player character, dozens, if not hundreds of other engineering robots work here, each with their own specialties and skills. The player will learn instructions to hundreds of different devices as they progress through the game. Any device which building instructions are known to the player can be built and used by the player and the non-player characters. 
 
 Some of the technologies developed here include:
-- new sorts of robots and machines (some conscious, some not)
+* new sorts of robots and machines (some conscious, some not)
  - a kind of modular principle might be used, so that the player may combine different parts for totally unique creations
-- accessories which enhance the capabilities of existing robots or human Laputians
-- biotechnology for either aesthetic purposes (such as flowers thriving in the glow of aetherium), or for the use of the human Laputians
-- new materials for construction (such as more durable, or more lightweight, to be used in the flying cities)
-- new ways to utilize aetherium mineral
-- confidential military technologies (the Laputian civilization had a military too, although it was not their main focus)
+* accessories which enhance the capabilities of existing robots or human Laputians
+* biotechnology for either aesthetic purposes (such as flowers thriving in the glow of aetherium), or for the use of the human Laputians
+* new materials for construction (such as more durable, or more lightweight, to be used in the flying cities)
+* new ways to utilize aetherium mineral
+* confidential military technologies (the Laputian civilization had a military too, although it was not their main focus)
  - The player will eventually learn to build weapons and other military devices and use them as one wishes. 
  - Almost everything in the game world can be destroyed and killed. The game will not encourage violence, but it will not prevent it either. 
  - Doing violence will initiate a state of alert in the cities and if the player is seen doing violence, the player will be chased and possibly "deactivated" (killed).
@@ -30,16 +30,16 @@ Some of the technologies developed here include:
 This is city is a combination of libraries, museums, and archives. Its purpose is to preserve the knowledge and culture of the Laputian civilization for future generations. Exploring this city is the main way to learn about the Laputian culture. Some parts of this city will be available only by solving things, e.g. puzzles or quests. The player character might also find instructions on how to build all sorts of devices.
 
 The player may learn more about these:
-- Who the Laputians are
- - The history
- - The culture
+* Who the Laputians are
+ * The history
+ * The culture
   - All laputians are experts of one sort or another. They value knowledge and beauty above all else.
   - In addition to specialization, all laputians are highly educated in science, technology, arts, and practical skills.
   - What type of flying and underground cities they live in and why
- - The science and technology
+ * The science and technology
   - About the aetherium mineral; how it enabled the birth of the culture
   - The advanced robotics and AI
- - The philosophy, religion and politics
+ * The philosophy, religion and politics
   - The Laputian civilization values co-operation and peaceful coexistence above all else. Violence is only used as a last resort.
   - The Laputians believe in the pursuit of knowledge and beauty as the highest goals in life.
   - The Laputians have a deep respect for nature and the environment, and strive to live in harmony with the natural world.
