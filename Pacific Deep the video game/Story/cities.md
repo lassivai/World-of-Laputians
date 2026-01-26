@@ -14,16 +14,16 @@ This city contains laboratories, workshops, and testing facilities where new tec
 
 Some of the technologies developed here include:
 * new sorts of robots and machines (some conscious, some not)
- - a kind of modular principle might be used, so that the player may combine different parts for totally unique creations
+    - a kind of modular principle might be used, so that the player may combine different parts for totally unique creations
 * accessories which enhance the capabilities of existing robots or human Laputians
 * biotechnology for either aesthetic purposes (such as flowers thriving in the glow of aetherium), or for the use of the human Laputians
 * new materials for construction (such as more durable, or more lightweight, to be used in the flying cities)
 * new ways to utilize aetherium mineral
 * confidential military technologies (the Laputian civilization had a military too, although it was not their main focus)
- - The player will eventually learn to build weapons and other military devices and use them as one wishes. 
- - Almost everything in the game world can be destroyed and killed. The game will not encourage violence, but it will not prevent it either. 
- - Doing violence will initiate a state of alert in the cities and if the player is seen doing violence, the player will be chased and possibly "deactivated" (killed).
-  - There are many locked areas in the game (such as the lodgings of other robots), which are only accessible by exploding the doors or walls.
+    - The player will eventually learn to build weapons and other military devices and use them as one wishes. 
+    - Almost everything in the game world can be destroyed and killed. The game will not encourage violence, but it will not prevent it either. 
+    - Doing violence will initiate a state of alert in the cities and if the player is seen doing violence, the player will be chased and possibly "deactivated" (killed).
+    - There are many locked areas in the game (such as the lodgings of other robots), which are only accessible by exploding the doors or walls.
 
 ### Preservation City
 
