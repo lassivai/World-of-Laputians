@@ -47,7 +47,7 @@ The player may learn more about these:
         - Every Laputian "drinks the sense of equality and justice from the mother's milk", as the saying goes.
         - Each Laputian has the right to believe in whatever religion or philosophy they wish, as long as it does not harm others. Anyhow, their universal education leads 99.9 % of the time to the religion of "Compassion and Curiosity".
 
-### Music City
+### Musical City
 
 The experience of beauty is one of the most important guiding principles for each resident of the Laputian civilization, both robots and human Laputians. They are interested in all sorts of art, visual or auditory, but music is especially important.
 
