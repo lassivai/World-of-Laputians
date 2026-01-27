@@ -40,7 +40,7 @@ Laputians have automated nearly all necessary labor using advanced robotics and 
 
 ### Beautiful Life
 
-No second spent beautifully is wasted for the Laputians. In almost any decision any Laputian face during their life, they are mostly directed by the questions "is it beautiful?" or "which choise is more beautiful?".
+No second spent beautifully is wasted for the Laputians. In almost any decision any Laputian faces during their life, they are mostly directed by the questions "is it beautiful?" or "which choise is more beautiful?".
 
 Laputians experience beauty on many levels:
 - Being directed by high values. E.g. does it increase equality and justice?
