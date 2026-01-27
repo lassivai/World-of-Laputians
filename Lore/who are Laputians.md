@@ -57,7 +57,7 @@ Even while doing their best effort, Laputians understand that the human lives an
 
 Other trouble are machines with consciousness, which are integral part of Laputian civilization. How much and what kind of consciousness should a machine have? Is it fair to limit the consciousness of a robot and instead of giving the best possible consciousness, give it only a fraction of that? Is it fair to program the robot to do mundane tasks, when it could be given a more fulfilling life? Someone might concider the Laputian robots as slaves, which is of course a deeply unjust concept.
 
-Because of these and other deeply unjust apects of life (human or wild), every Laputian feels every moment at least little, if not bigger, sadness within.
+Because of these and other deeply unjust aspects of life (human or wild), every Laputian feels every moment at least little, if not bigger, sadness within.
 
 No one knows where the Laputians disappeared from Earth about 700 years ago. There are legends that claim, that to solve the deep sadness within every Laputian, they decided to leave their advanced civilization behind and instead start living in even better harmony with nature, practically as farmers carrying as little existential burden as possible.
 
