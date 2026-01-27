@@ -49,7 +49,17 @@ Laputians experience beauty on many levels:
 - Laputians find beauty in harmony. E.g. having a serious face when feeling down is considered beautiful. Also beautiful is a gracefully dancing body when feeling joyful.
 - Creativity is essential incredient in every Laputian's life. Instead of creating things that other people might concider important, Laputians are highly inner-driven, which leads to deep harmony between the creator and the creation, which, of course, is beautiful.
     - All Laputians are taught to play keyboard instruments (made audible by synthesizers) and enjoy singing starting from early childhood. There are infinite amount of synthesizer sounds from which the little children may choose what please them, and about 100 "classical" synthesizer instruments most commonly heard in the music halls of Laputian civilization.
-    - Moving the body and the limbs directed by inner feelings is normal for all Laputians. Thus,dancing is as normal for Laputians as walking.
+    - Moving the body and the limbs directed by inner feelings is normal for all Laputians. Thus, dancing is as normal for Laputians as walking.
+
+### Complex Problems without Answers
+
+Even while doing their best effort, Laputians understand that the human lives and the life in wild nature is never perfectly fair. Even little children in Laputian civilization understands how all life on Earth has risen with evolution by natural selection, which of course works by the most unfair principle.
+
+Other trouble are machines with consciousness, which are integral part of Laputian civilization. How much and what kind of consciousness should a machine have? Is it fair to limit the consciousness of a robot and instead of giving the best possible consciousness, give it only a fraction of that? Is it fair to program the robot to do mundane tasks, when it could be given a more fulfilling life? Someone might concider the Laputian robots as slaves, which is of course a deeply unjust concept.
+
+Because of these and other deeply unjust apects of life (human or wild), every Laputian feels every moment at least little, if not bigger, sadness within.
+
+No one knows where the Laputians disappeared from Earth about 700 years ago. There are legends that claim, that to solve the deep sadness within every Laputian, they decided to leave their advanced civilization behind and instead start living in even better harmony with nature, practically as farmers carrying as little existential burden as possible.
 
 ## Politics
 
