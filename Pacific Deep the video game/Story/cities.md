@@ -59,6 +59,12 @@ There might be a repertoire of about 100 classical Laputian music pieces. Some o
 
 There might be a "practice room" in the game, in which the player can play with all the uncovered synthesizer instruments, if they have a midi controller connected to the PC. 
 
+### Historical City
+
+Laputian history.
+
+History of life on Earth. Skeletons of ancient animals. This part of the game totally non-fantasy, but real science-based history.
+
 ### Mining City
 
 To be written...

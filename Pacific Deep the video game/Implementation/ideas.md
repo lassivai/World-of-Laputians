@@ -21,3 +21,8 @@ The closer the sound source the more dry the reverb. More distant sounds more we
 Practically, using two audio lanes, which content will be determined how far away from the player the sounds originates. One circle completely within the viewport, and sounds originating within it will be completely lane 1 audio. Another circle completely outside the viewport, and sounds farther than that will not be heard. Everything between the circle A and B will be mixed for the both audio lanes.
 
 Different materials colliding to each other will have their own audio samples.
+
+## HDR rendering ideas
+
+Tonemapping. Bloom. Eye adaptation.
+
