@@ -48,8 +48,6 @@ Laputians experience beauty on many levels:
 - However, Laputians are not directed by negative or bad feelings to large extent. They are taught ways to feel anyhow accepted just the way they are, and find the meaning in those inner signals, whatever those might be. Experiencing and creating art is a normal way for Laputians to find beauty even in dark moments.
 - Laputians find beauty in harmony. E.g. having a serious face when feeling down is considered beautiful. Also beautiful is a gracefully dancing body when feeling joyful.
 - Creativity is essential incredient in every Laputian's life. Instead of creating things that other people might concider important, Laputians are highly inner-driven, which leads to deep harmony between the creator and the creation, which, of course, is beautiful.
-    - All Laputians are taught to play keyboard instruments (made audible by synthesizers) and enjoy singing starting from early childhood. There are infinite amount of synthesizer sounds from which the little children may choose what please them, and about 100 "classical" synthesizer instruments most commonly heard in the music halls of Laputian civilization.
-    - Moving the body and the limbs directed by inner feelings is normal for all Laputians. Thus, dancing is as normal for Laputians as walking.
 
 ### Complex Problems without Answers
 
@@ -66,3 +64,18 @@ No one knows where the Laputians disappeared from Earth about 700 years ago. Leg
 - There are no political parties.
 - If there are people interested in political affairs, they are free to perform those. Otherwise the intelligent robots will take care of political issues.
 - Every political problem is solved by dedicating the issue to the experts of the particular field, who will possibly do new research as much as possible, so that the most practical option is uncovered.
+
+## Creativity and Self-expression
+
+### Music
+
+All Laputians are taught to play keyboard instruments (made audible by synthesizers) and enjoy singing starting from early childhood. There are infinite amount of synthesizer sounds from which the little children may choose what please them, and about 100 "classical" synthesizer instrument sounds most commonly heard in the music halls of Laputian civilization. What comes to singing, it is concidered way more important to help children enjoy uttering simple sounds from the throat than to sing "correctly" according to some predefined standard.
+
+Even though the degree of skills varies, some sort of musical improvisation is common among all Laputians. It is normal for Laputians to think of music little more abstractly than in other cultures. For example, instead of learning musical pieces note by note, Laputians first internalize the structure of verses and the chord progression for the entire musical pieces. Also, more often than not, Laputians have "classical" music piece "frameworks" (the chord progression, thematic ideas, rhythmic patterns, etc.) rather than "note by note" classical music pieces. Each Laputian can improvise according to one's own skills and taste on top of that framework. This way every performance of a "classical" music piece is unique. Improvising totally new music pieces is no more uncommon.
+
+There's not much difference in the concepts of "folk music" and "classical music" in Laputian culture. Most Laputians mix and match different types of playing styles, or "genres". A song that was played as a lullaby in the evening, might turn out to be a heavy metal song tomorrow. By using different (synthesizer) instruments and ways of playing, every musical piece may be performed from very aggressive and heavy way to very gentle and graceful style, according to the liking and current mood of the performer.
+
+### Bodily Movement and Dancing
+
+Moving the body and the limbs directed by inner feelings is normal for all Laputians. Dancing is as normal for Laputians as walking. Anyhow, many concider dancing to be kind of moving meditation and enjoy doing it in one's own privacy.
+
