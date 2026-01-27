@@ -59,7 +59,7 @@ Other trouble are machines with consciousness, which are integral part of Laputi
 
 Because of these and other deeply unjust aspects of life (human or wild), every Laputian feels every moment at least little, if not bigger, sadness within.
 
-No one knows where the Laputians disappeared from Earth about 700 years ago. There are legends that claim, that to solve the deep sadness within every Laputian, they decided to leave their advanced civilization behind and instead start living in even better harmony with nature, practically as farmers carrying as little existential burden as possible.
+No one knows where the Laputians disappeared from Earth about 700 years ago. Legends claim, that to solve the deep sadness within every Laputian, they decided to leave their advanced civilization behind and instead start living in even better harmony with nature, practically as farmers carrying as little existential burden as possible.
 
 ## Politics
 
