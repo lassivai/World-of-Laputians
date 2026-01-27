@@ -53,7 +53,7 @@ Laputians experience beauty on many levels:
 
 ### Complex Problems without Answers
 
-Even while doing their best effort, Laputians understand that the human lives and the life in wild nature is never perfectly fair. Even little children in Laputian civilization understand how all life on Earth has risen with evolution by natural selection, which of course works by the most unfair principle.
+Even while doing their best effort, Laputians understand that the human lives and the life in wild nature is never perfectly fair. Even little children in Laputian civilization understand how all life on Earth has risen with evolution by natural selection, which of course works by the most unfair principle. Wild animals are constantly stuggling in fear, hunger, pain and suffering.
 
 Other trouble are machines with consciousness, which are integral part of Laputian civilization. How much and what kind of consciousness should a machine have? Is it fair to limit the consciousness of a robot and instead of giving the best possible consciousness, give it only a fraction of that? Is it fair to program the robot to do mundane tasks, when it could be given a more fulfilling life? Someone might concider the Laputian robots as slaves, which is of course a deeply unjust concept.
 
