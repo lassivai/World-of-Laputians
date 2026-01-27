@@ -30,22 +30,7 @@ Some of the technologies developed here include:
 This is city is a combination of libraries, museums, and archives. Its purpose is to preserve the knowledge and culture of the Laputian civilization for future generations. Exploring this city is the main way to learn about the Laputian culture. Some parts of this city will be available only by solving things, e.g. puzzles or quests. The player character might also find instructions on how to build all sorts of devices.
 
 The player may learn more about these:
-* Who the Laputians are
-    * The history
-    * The culture
-        - All laputians are experts of one sort or another. They value knowledge and beauty above all else.
-        - In addition to specialization, all laputians are highly educated in science, technology, arts, and practical skills.
-        - What type of flying and underground cities they live in and why
-    * The science and technology
-        - About the aetherium mineral; how it enabled the birth of the culture
-        - The advanced robotics and AI
-    * The philosophy, religion and politics
-        - The Laputian civilization values co-operation and peaceful coexistence above all else. Violence is only used as a last resort.
-        - The Laputians believe in the pursuit of knowledge and beauty as the highest goals in life.
-        - The Laputians have a deep respect for nature and the environment, and strive to live in harmony with the natural world.
-        - There are no political parties. Every political problem is solved by dedicating the issue to the experts of the particular field, who will possibly do new research as much as possible, so that the most practical option is uncovered.
-        - Every Laputian "drinks the sense of equality and justice from the mother's milk", as the saying goes.
-        - Each Laputian has the right to believe in whatever religion or philosophy they wish, as long as it does not harm others. Anyhow, their universal education leads 99.9 % of the time to the religion of "Compassion and Curiosity".
+    Check: Lore/who are Laputians.md
 
 ### Musical City
 
