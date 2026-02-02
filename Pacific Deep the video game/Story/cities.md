@@ -1,4 +1,4 @@
-## The Cities In the Depths
+# The Cities In the Depths
 
 Pacific Deep is a collection of interconnected underground cities located deep below the surface of Pacific Ocean. These cities were built by the ancient Laputian civilization to harvest the valuable mineral aetherium, which was used to power their advanced technology, including their flying castles.
 
@@ -8,7 +8,7 @@ In addition to the functional parts of each city, every city also contains the l
 
 All sort of presentations and shows are held in the cities from time to time, such as musical concerts, art exhibitions and new technology releases. The player may attend these events for recreation or to learn more about the Laputian culture. They are scheduled regularly, so that each day or so there might be events happening in some city.
 
-### Research and Development City
+## Research and Development City
 
 This city contains laboratories, workshops, and testing facilities where new technologies and inventions are developed. In addition to the player character, dozens, if not hundreds of other engineering robots work here, each with their own specialties and skills. The player will learn instructions for hundreds of different devices as they progress through the game. Any device which building instructions are known to the player can be built and used by the player and the non-player characters. 
 
@@ -25,14 +25,14 @@ Some of the technologies developed here include:
     - Doing violence will initiate a state of alert in the cities and if the player is seen doing violence, the player will be chased and possibly "deactivated" (killed).
     - There are many locked areas in the game (such as the lodgings of other robots), which are only accessible by exploding the doors or walls.
 
-### Preservation City
+## Preservation City
 
 This is city is a combination of libraries, museums, and archives. Its purpose is to preserve the knowledge and culture of the Laputian civilization for future generations. Exploring this city is the main way to learn about the Laputian culture. Some parts of this city will be available only by solving things, e.g. puzzles or quests. The player character might also find instructions on how to build all sorts of devices.
 
 The player may learn more about these:
     Check: Lore/who are Laputians.md
 
-### Musical City
+## Musical City
 
 The experience of beauty is one of the most important guiding principles for each resident of the Laputian civilization, both robots and human Laputians. They are interested in all sorts of art, visual or auditory, but music is especially important.
 
@@ -44,12 +44,30 @@ There might be a repertoire of about 100 classical Laputian music pieces. Some o
 
 There might be a "practice room" in the game, in which the player can play with all the uncovered synthesizer instruments, if they have a midi controller connected to the PC. 
 
-### Historical City
+## Historical City
 
 Laputian history.
 
 History of life on Earth. Skeletons of ancient animals. This part of the game totally non-fantasy, but real science-based history.
 
-### Mining City
+## Mining City
 
 To be written...
+
+## City of Fun
+
+Arcade games (maybe at least 10 minigames).
+
+"Physical" kart racing tracks and races. Because it would be impossible to create seats for all kinds of robots, the karts are controlled remotely.
+
+The floor of the city (at least the corridors) is a massive pixel grid with fun effects when walked upon.
+
+## Flower City
+
+A place where different plants are cultivated and artificially selected to produce new varieties.
+
+Based on either the beauty or utility for Laputians.
+
+## Intercity Rail Traffic
+
+In a floor below the main level.
