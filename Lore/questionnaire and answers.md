@@ -32,16 +32,19 @@ Students: Shafranas; Numitor; M. Wortwede; A. Wortlece; C. Lankyshanks
 19. Questions of Warfare.
 
 ## 1. Questions of Place.
-Describe the geography of where your society calls home.
->10-1000 flying cities (e.g. Laputa, City of Moon, City of Snow, City of Flower, City of Rock)
->10-1000 underground cities (e.g. below the seafloor of Pacific Ocean)
->Maybe surface cities where food is grown.
-Describe the climate your society deals with. How severe are their seasons?
-~~~
+
+**Describe the geography of where your society calls home.**
+
+10-1000 flying cities (e.g. Laputa, City of Moon, City of Snow, City of Flower, City of Rock)
+10-1000 underground cities (e.g. below the seafloor of Pacific Ocean) 
+Maybe surface cities where food is grown.
+
+**Describe the climate your society deals with. How severe are their seasons?**
+
 Flying cities can hover anywhere on Earth, but usually in temperature of about 20-30 degrees Celsius.
 Temperature in underground cities is artificially maintained; stable and mild, around 15-25 degrees Celsius.
 The possible surface cities are located in all zones of Earth (polar, temperate, tropical), but usually in places with good soil and water for farming.
-~~~
+
 What kinds of natural disasters has this society gotten used to?
 ~~~
 ~~~
