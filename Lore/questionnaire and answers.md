@@ -40,11 +40,21 @@ Maybe surface cities where food is grown.
 ~~~
 Describe the climate your society deals with. How severe are their seasons?
 ~~~
-123
+Flying cities can hover anywhere on Earth, but usually in temperature of about 20-30 degrees Celsius.
+Temperature in underground cities is artificially maintained; stable and mild, around 15-25 degrees Celsius.
+The possible surface cities are located in all zones of Earth (polar, temperate, tropical), but usually in places with good soil and water for farming.
 ~~~
 What kinds of natural disasters has this society gotten used to?
+~~~
+~~~
 What importance (spiritual or cultural) do people ascribe to the geography?
+~~~
+Laputians don't believe in supernatural forces, but they are deeply grateful for Mother Nature for providing fertile land and gentle climate for them to live in. Laputians maintain sustainable development.
+~~~
 How do people feel about local landscapes being altered or used for a purpose other than what is traditional?
+~~~
+**Answer by AI:** Laputians are generally open to the idea of altering landscapes for the sake of development, as long as it is done in a sustainable way. They understand that some changes may be necessary to accommodate their growing population and to improve their quality of life. However, they also value the natural beauty of their surroundings and strive to preserve it whenever possible. There may be some resistance to large-scale alterations that could significantly impact the environment or disrupt local ecosystems, but overall, Laputians are pragmatic and willing to adapt to changing circumstances while still respecting nature.
+~~~
 What are the most commonly-grown foods?
 What are the most commonly-eaten meats?
 What foods are considered exotic or expensive?
