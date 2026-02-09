@@ -34,11 +34,14 @@ Students: Shafranas; Numitor; M. Wortwede; A. Wortlece; C. Lankyshanks
 ## 1. Questions of Place.
 Describe the geography of where your society calls home.
 ~~~
-10-1000 flying cities
+10-1000 flying cities (e.g. Laputa, City of Moon, City of Snow, City of Flower, City of Rock)
 10-1000 underground cities (e.g. below the seafloor of Pacific Ocean)
 Maybe surface cities where food is grown.
 ~~~
 Describe the climate your society deals with. How severe are their seasons?
+~~~
+123
+~~~
 What kinds of natural disasters has this society gotten used to?
 What importance (spiritual or cultural) do people ascribe to the geography?
 How do people feel about local landscapes being altered or used for a purpose other than what is traditional?
