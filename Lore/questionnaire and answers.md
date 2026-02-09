@@ -36,7 +36,6 @@ Describe the geography of where your society calls home.
 >10-1000 flying cities (e.g. Laputa, City of Moon, City of Snow, City of Flower, City of Rock)
 >10-1000 underground cities (e.g. below the seafloor of Pacific Ocean)
 >Maybe surface cities where food is grown.
-~~~
 Describe the climate your society deals with. How severe are their seasons?
 ~~~
 Flying cities can hover anywhere on Earth, but usually in temperature of about 20-30 degrees Celsius.
